@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E32FCE7D-B79C-432E-BC3F-4CB2B5C27169}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Static-Test-Class PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Static-Test-Class/Services/CalculatorService.cs">
+    <Files>
+      <File FileName="Static-Test-Class/Program.cs" Line="1" Column="1" />
+      <File FileName="Static-Test-Class/Extensions/Extensions.cs" />
+      <File FileName="Static-Test-Class/Services/CalculatorService.cs" Line="9" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Static-Test-Class" expanded="True">
+            <Node name="Static-Test-Class" expanded="True">
+              <Node name="Extensions" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="CalculatorService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

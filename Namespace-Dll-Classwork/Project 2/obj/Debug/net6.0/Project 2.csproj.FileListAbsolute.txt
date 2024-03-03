@@ -1,0 +1,12 @@
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/bin/Debug/net6.0/Project 2.deps.json
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/bin/Debug/net6.0/Project 2.dll
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/bin/Debug/net6.0/Project 2.pdb
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/obj/Debug/net6.0/Project 2.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/obj/Debug/net6.0/Project 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/obj/Debug/net6.0/Project 2.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/obj/Debug/net6.0/Project 2.AssemblyInfo.cs
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/obj/Debug/net6.0/Project 2.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/obj/Debug/net6.0/Project 2.dll
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/obj/Debug/net6.0/refint/Project 2.dll
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/obj/Debug/net6.0/Project 2.pdb
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Project 2/obj/Debug/net6.0/ref/Project 2.dll

@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Namespace-Dll-Classwork/1.0.0": {
+        "runtime": {
+          "Namespace-Dll-Classwork.dll": {}
+        }
+      },
+      "Project 2/1.0.0": {
+        "runtime": {
+          "Project 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Namespace-Dll-Classwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

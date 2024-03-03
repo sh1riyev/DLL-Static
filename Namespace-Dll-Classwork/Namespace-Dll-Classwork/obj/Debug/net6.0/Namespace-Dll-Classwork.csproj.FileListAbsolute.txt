@@ -1,0 +1,18 @@
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/bin/Debug/net6.0/Namespace-Dll-Classwork
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/bin/Debug/net6.0/Namespace-Dll-Classwork.deps.json
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/bin/Debug/net6.0/Namespace-Dll-Classwork.runtimeconfig.json
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/bin/Debug/net6.0/Namespace-Dll-Classwork.dll
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/bin/Debug/net6.0/Namespace-Dll-Classwork.pdb
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/bin/Debug/net6.0/Project 2.dll
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/bin/Debug/net6.0/Project 2.pdb
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/Namespace-Dll-Classwork.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/Namespace-Dll-Classwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/Namespace-Dll-Classwork.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/Namespace-Dll-Classwork.AssemblyInfo.cs
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/Namespace-Dll-Classwork.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/Namespace-Dll-Classwork.csproj.CopyComplete
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/Namespace-Dll-Classwork.dll
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/refint/Namespace-Dll-Classwork.dll
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/Namespace-Dll-Classwork.pdb
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/Namespace-Dll-Classwork.genruntimeconfig.cache
+/Users/sh1riyev/Projects/Namespace-Dll-Classwork/Namespace-Dll-Classwork/obj/Debug/net6.0/ref/Namespace-Dll-Classwork.dll
